@@ -1,4 +1,4 @@
-# HeightComparator
+# Height Comparator
 
 A simple page to generate heights visually.
 A work in progress.
