@@ -1,6 +1,8 @@
 # Height Comparator
 
-A simple page to generate heights visually.
+**NOTE: This project is on indefinite hold. The current functionality is still supported, but additional changes will not be made.**
+
+A simple page to generate heights visually for 刀剣乱舞, with some silly options.
 A work in progress.
 To be added later:
 - Click and drag option, to move around individual images as desired
