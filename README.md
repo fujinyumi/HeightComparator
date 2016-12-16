@@ -1,5 +1,7 @@
 # Height Comparator
 
+This application is available courtesy of GitHub pages [here](https://fujinyumi.github.io/height-comparator/).
+
 **NOTE: This project is on indefinite hold. The current functionality is still supported, but additional changes will not be made.**
 
 A simple page to generate heights visually for 刀剣乱舞, with some silly options.
